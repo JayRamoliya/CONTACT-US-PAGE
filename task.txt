@@ -1,0 +1,74 @@
+video link -> https://www.youtube.com/watch?v=hrHIzqyq06U
+
+1. install react with vite -> https://vitejs.dev/guide/ (vite is for frontend part,
+first install node js and than react)
+
+    cmd: npm create vite@latest
+         cd Project-1
+         npm install
+         npm run dev
+
+2. title change 
+
+3. clean app.jsx file
+
+4. download image inside images folder
+
+5. create a "components" folder
+
+6. create Nav folder inside components folder,
+      inside create a Nav.jsx file & create css module Nav.module.css & import into Nav.jsx file,
+      & write a css for Nav.jsx
+
+7. create ContactHeader folder inside components folder,
+      inside create a ContactHeader.jsx file & create css module ContactHeader.module.css & import into ContactHeader.jsx file,
+      & write a css for ContactHeader.jsx
+
+8. cretae ContactForm folder inside components folder,
+      inside create a ContactForm.jsx file & create css module ContactForm.module.css & import into ContactForm.jsx file,
+      & write a css for ContactForm.jsx
+
+9. create a Button Folder.
+    inside create a Button.jsx component & make it resuable.
+      - create css module  Button.module.css & import into Button.jsx file,
+      & write a css for Button.jsx
+
+10. install React Icons - npm install react-icons
+
+11.create Button components - VIA EMAIL FORM, VIA CALL, VIA EMAIL FORM
+
+12. After that add TextArea & submit Button.
+
+13. Add Main Image.
+
+14. redesign css 
+
+[15. create a function onViaCallSubmit() inside ContactForm.jsx,
+      button components inside change,
+      use ...rest operator and pass inside button] 
+this is only for your knowlage don't remove this part ok ✅
+
+16. create a function onSubmit() inside ContactForm.jsx,
+      when form submit to call this function,
+      get data using event.target.value
+
+17. download Console Ninja extensions
+
+18. create a state for name, email, text, first import usestate,
+      use setName and etc
+
+19. usestate use for rerender component
+
+20. flow 
+      submit form to -> call onSubmit()
+      form preventDefault
+      all value set inside usestate
+      set value in variable
+
+      
+    
+summary:-   how to pass props in components
+            how to use css module
+            install react icons
+            same components create varients
+            usestate use show data in UI
